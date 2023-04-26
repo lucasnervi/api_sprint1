@@ -1,0 +1,421 @@
+Started GET "/" for ::1 at 2023-04-26 13:51:34 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/lucasnervischmidt/.rvm/gems/ruby-3.1.0/gems/railties-7.0.4.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/lucasnervischmidt/.rvm/gems/ruby-3.1.0/gems/railties-7.0.4.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 636)
+Completed 200 OK in 9ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 5143)
+
+
+Started GET "/pagina1/index" for ::1 at 2023-04-26 13:51:52 -0400
+  
+SyntaxError (/Users/lucasnervischmidt/Desktop/pruebas_ror/api/app/controllers/pagina1_controller.rb:10: syntax error, unexpected `end', expecting end-of-input):
+  
+app/controllers/pagina1_controller.rb:10: syntax error, unexpected `end', expecting end-of-input
+app/controllers/pagina1_controller.rb:10: syntax error, unexpected `end', expecting end-of-input
+app/controllers/pagina1_controller.rb:10: syntax error, unexpected `end', expecting end-of-input
+Started GET "/pagina1/index" for ::1 at 2023-04-26 13:52:47 -0400
+Processing by Pagina1Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina1/index.html.erb within layouts/application
+  Rendered pagina1/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 521)
+  Rendered layout layouts/application.html.erb (Duration: 173.2ms | Allocations: 90356)
+Completed 200 OK in 178ms (Views: 174.8ms | ActiveRecord: 0.0ms | Allocations: 93798)
+
+
+Started GET "/pagina2/index" for ::1 at 2023-04-26 13:52:49 -0400
+Processing by Pagina2Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina2/index.html.erb within layouts/application
+  Rendered pagina2/index.html.erb within layouts/application (Duration: 1.1ms | Allocations: 282)
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 2933)
+Completed 200 OK in 9ms (Views: 7.6ms | ActiveRecord: 0.0ms | Allocations: 3728)
+
+
+Started GET "/pagina3/index" for ::1 at 2023-04-26 13:52:50 -0400
+Processing by Pagina3Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina3/index.html.erb within layouts/application
+  Rendered pagina3/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 230)
+  Rendered layout layouts/application.html.erb (Duration: 4.6ms | Allocations: 2866)
+Completed 200 OK in 9ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 3659)
+
+
+Started GET "/pagina3/index" for ::1 at 2023-04-26 13:53:39 -0400
+Processing by Pagina3Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina3/index.html.erb within layouts/application
+  Rendered pagina3/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 44)
+  Rendered layout layouts/application.html.erb (Duration: 4.5ms | Allocations: 2416)
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms | Allocations: 2699)
+
+
+Started GET "/pagina1/index" for ::1 at 2023-04-26 13:53:46 -0400
+Processing by Pagina1Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina1/index.html.erb within layouts/application
+  Rendered pagina1/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 44)
+  Rendered layout layouts/application.html.erb (Duration: 4.7ms | Allocations: 2394)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms | Allocations: 2654)
+
+
+Started GET "/pagina2/index" for ::1 at 2023-04-26 13:53:58 -0400
+Processing by Pagina2Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina2/index.html.erb within layouts/application
+  Rendered pagina2/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 71)
+  Rendered layout layouts/application.html.erb (Duration: 6.6ms | Allocations: 2430)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 2692)
+
+
+Started GET "/pagina3/index" for ::1 at 2023-04-26 13:54:00 -0400
+Processing by Pagina3Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina3/index.html.erb within layouts/application
+  Rendered pagina3/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 44)
+  Rendered layout layouts/application.html.erb (Duration: 6.2ms | Allocations: 2404)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 2669)
+
+
+Started GET "/pagina1/index" for ::1 at 2023-04-26 13:54:02 -0400
+Processing by Pagina1Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina1/index.html.erb within layouts/application
+  Rendered pagina1/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 44)
+  Rendered layout layouts/application.html.erb (Duration: 4.5ms | Allocations: 2388)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 2649)
+
+
+Started GET "/pagina1/index" for ::1 at 2023-04-26 14:01:41 -0400
+Processing by Pagina1Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina1/index.html.erb within layouts/application
+  Rendered pagina1/index.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1462)
+  Rendered layout layouts/application.html.erb (Duration: 49.5ms | Allocations: 36475)
+Completed 200 OK in 54ms (Views: 51.1ms | ActiveRecord: 0.0ms | Allocations: 39917)
+
+
+Started POST "/pagina1/siguiente" for ::1 at 2023-04-26 14:01:48 -0400
+Processing by Pagina1Controller#siguiente as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "username"=>"lucas", "password"=>"[FILTERED]", "commit"=>"Iniciar sesión"}
+Redirected to http://localhost:3000/pagina2/index
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 562)
+
+
+Started GET "/pagina2/index" for ::1 at 2023-04-26 14:01:48 -0400
+Processing by Pagina2Controller#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering pagina2/index.html.erb within layouts/application
+  Rendered pagina2/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 288)
+  Rendered layout layouts/application.html.erb (Duration: 2.5ms | Allocations: 2913)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms | Allocations: 3750)
+
+
+Started GET "/pagina3/index" for ::1 at 2023-04-26 14:01:55 -0400
+Processing by Pagina3Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina3/index.html.erb within layouts/application
+  Rendered pagina3/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 230)
+  Rendered layout layouts/application.html.erb (Duration: 6.6ms | Allocations: 2860)
+Completed 200 OK in 10ms (Views: 8.9ms | ActiveRecord: 0.0ms | Allocations: 3654)
+
+
+Started GET "/pagina1/index" for ::1 at 2023-04-26 14:05:30 -0400
+Processing by Pagina1Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina1/index.html.erb within layouts/application
+  Rendered pagina1/index.html.erb within layouts/application (Duration: 1.6ms | Allocations: 547)
+  Rendered layout layouts/application.html.erb (Duration: 6.3ms | Allocations: 2740)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 3026)
+
+
+Started GET "/pagina1/index" for ::1 at 2023-04-26 14:11:35 -0400
+Processing by Pagina1Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina1/index.html.erb within layouts/application
+  Rendered pagina1/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 468)
+  Rendered layout layouts/application.html.erb (Duration: 48.4ms | Allocations: 35812)
+Completed 200 OK in 52ms (Views: 49.8ms | ActiveRecord: 0.0ms | Allocations: 39255)
+
+
+Started GET "/pagina1/index" for ::1 at 2023-04-26 14:13:11 -0400
+Processing by Pagina1Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina1/index.html.erb within layouts/application
+  Rendered pagina1/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 247)
+  Rendered layout layouts/application.html.erb (Duration: 6.8ms | Allocations: 3080)
+Completed 200 OK in 11ms (Views: 9.7ms | ActiveRecord: 0.0ms | Allocations: 3984)
+
+
+Started GET "/pagina1/index" for ::1 at 2023-04-26 14:24:58 -0400
+Processing by Pagina1Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina1/index.html.erb within layouts/application
+  Rendered pagina1/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 241)
+  Rendered layout layouts/application.html.erb (Duration: 5.9ms | Allocations: 3073)
+Completed 200 OK in 10ms (Views: 7.9ms | Allocations: 3934)
+
+
+Started POST "/pagina1/siguiente" for ::1 at 2023-04-26 14:25:01 -0400
+Processing by Pagina1Controller#siguiente as TURBO_STREAM
+  Parameters: {"username"=>"ddd", "password"=>"[FILTERED]"}
+Redirected to http://localhost:3000/pagina2/index
+Completed 302 Found in 1ms (Allocations: 583)
+
+
+Started GET "/pagina2/index" for ::1 at 2023-04-26 14:25:01 -0400
+Processing by Pagina2Controller#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering pagina2/index.html.erb within layouts/application
+  Rendered pagina2/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 298)
+  Rendered layout layouts/application.html.erb (Duration: 2.0ms | Allocations: 2928)
+Completed 200 OK in 3ms (Views: 2.9ms | Allocations: 3752)
+
+
+Started GET "/pagina2/diagrama.png" for ::1 at 2023-04-26 14:25:01 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/pagina2/diagrama.png"):
+  
+Started GET "/pagina2/index" for ::1 at 2023-04-26 14:26:36 -0400
+Processing by Pagina2Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina2/index.html.erb within layouts/application
+  Rendered pagina2/index.html.erb within layouts/application (Duration: 14.8ms | Allocations: 4938)
+  Rendered layout layouts/application.html.erb (Duration: 15.0ms | Allocations: 5027)
+Completed 500 Internal Server Error in 20ms (Allocations: 5875)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `pagina1_path' for #<ActionView::Base:0x0000000000b248>
+
+  '.freeze;@output_buffer.append=( link_to "Anterior", pagina1_path, class: "btn btn-primary" );@output_buffer.safe_append='
+                                                       ^^^^^^^^^^^^
+Did you mean?  pagina1_index_path):
+    1: <div class="nav-buttons">
+    2:   <%= link_to "Anterior", pagina1_path, class: "btn btn-primary" %>
+    3:   <%= link_to "Siguiente", pagina3_path, class: "btn btn-primary" %>
+    4: </div>
+    5: <div class="image-container">
+  
+app/views/pagina2/index.html.erb:2
+Started GET "/pagina1/index" for ::1 at 2023-04-26 14:26:44 -0400
+Processing by Pagina1Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina1/index.html.erb within layouts/application
+  Rendered pagina1/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 240)
+  Rendered layout layouts/application.html.erb (Duration: 18.8ms | Allocations: 5574)
+Completed 200 OK in 21ms (Views: 20.4ms | Allocations: 6227)
+
+
+Started POST "/pagina1/siguiente" for ::1 at 2023-04-26 14:26:46 -0400
+Processing by Pagina1Controller#siguiente as TURBO_STREAM
+  Parameters: {"username"=>"ddd", "password"=>"[FILTERED]"}
+Redirected to http://localhost:3000/pagina2/index
+Completed 302 Found in 2ms (Allocations: 367)
+
+
+Started GET "/pagina2/index" for ::1 at 2023-04-26 14:26:46 -0400
+Processing by Pagina2Controller#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering pagina2/index.html.erb within layouts/application
+  Rendered pagina2/index.html.erb within layouts/application (Duration: 11.7ms | Allocations: 4657)
+  Rendered layout layouts/application.html.erb (Duration: 11.9ms | Allocations: 4736)
+Completed 500 Internal Server Error in 13ms (Allocations: 5036)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `pagina1_path' for #<ActionView::Base:0x0000000000b5b8>
+
+  '.freeze;@output_buffer.append=( link_to "Anterior", pagina1_path, class: "btn btn-primary" );@output_buffer.safe_append='
+                                                       ^^^^^^^^^^^^
+Did you mean?  pagina1_index_path):
+    1: <div class="nav-buttons">
+    2:   <%= link_to "Anterior", pagina1_path, class: "btn btn-primary" %>
+    3:   <%= link_to "Siguiente", pagina3_path, class: "btn btn-primary" %>
+    4: </div>
+    5: <div class="image-container">
+  
+app/views/pagina2/index.html.erb:2
+Started GET "/pagina1/index" for ::1 at 2023-04-26 14:27:50 -0400
+Processing by Pagina1Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina1/index.html.erb within layouts/application
+  Rendered pagina1/index.html.erb within layouts/application (Duration: 1.4ms | Allocations: 241)
+  Rendered layout layouts/application.html.erb (Duration: 5.9ms | Allocations: 3075)
+Completed 200 OK in 10ms (Views: 8.2ms | Allocations: 3903)
+
+
+Started POST "/pagina1/siguiente" for ::1 at 2023-04-26 14:27:51 -0400
+Processing by Pagina1Controller#siguiente as TURBO_STREAM
+  Parameters: {"username"=>"ddd", "password"=>"[FILTERED]"}
+Redirected to http://localhost:3000/pagina2/index
+Completed 302 Found in 2ms (Allocations: 352)
+
+
+Started GET "/pagina2/index" for ::1 at 2023-04-26 14:27:51 -0400
+Processing by Pagina2Controller#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering pagina2/index.html.erb within layouts/application
+  Rendered pagina2/index.html.erb within layouts/application (Duration: 12.8ms | Allocations: 4955)
+  Rendered layout layouts/application.html.erb (Duration: 13.0ms | Allocations: 5043)
+Completed 500 Internal Server Error in 15ms (Allocations: 5709)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `pagina3_path' for #<ActionView::Base:0x0000000000b978>
+
+  '.freeze;@output_buffer.append=( link_to "Siguiente", pagina3_path, class: "btn btn-primary" );@output_buffer.safe_append='
+                                                        ^^^^^^^^^^^^
+Did you mean?  pagina3_index_path):
+    1: <div class="nav-buttons">
+    2:   <%= link_to "Anterior", pagina1_index_path, class: "btn btn-primary" %>
+    3:   <%= link_to "Siguiente", pagina3_path, class: "btn btn-primary" %>
+    4: </div>
+    5: <div class="image-container">
+    6:   <%= image_tag "diagrama.png" %>
+  
+app/views/pagina2/index.html.erb:3
+Started GET "/pagina1/index" for ::1 at 2023-04-26 14:28:06 -0400
+Processing by Pagina1Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina1/index.html.erb within layouts/application
+  Rendered pagina1/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 241)
+  Rendered layout layouts/application.html.erb (Duration: 4.4ms | Allocations: 3078)
+Completed 200 OK in 9ms (Views: 7.1ms | Allocations: 3923)
+
+
+Started POST "/pagina1/siguiente" for ::1 at 2023-04-26 14:28:08 -0400
+Processing by Pagina1Controller#siguiente as TURBO_STREAM
+  Parameters: {"username"=>"ddd", "password"=>"[FILTERED]"}
+Redirected to http://localhost:3000/pagina2/index
+Completed 302 Found in 1ms (Allocations: 358)
+
+
+Started GET "/pagina2/index" for ::1 at 2023-04-26 14:28:08 -0400
+Processing by Pagina2Controller#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering pagina2/index.html.erb within layouts/application
+  Rendered pagina2/index.html.erb within layouts/application (Duration: 2.8ms | Allocations: 2230)
+  Rendered layout layouts/application.html.erb (Duration: 2.9ms | Allocations: 2318)
+Completed 500 Internal Server Error in 6ms (Allocations: 2987)
+
+
+  
+ActionView::Template::Error (The asset "diagrama.png" is not present in the asset pipeline.
+):
+    3:   <%= link_to "Siguiente", pagina3_index_path, class: "btn btn-primary" %>
+    4: </div>
+    5: <div class="image-container">
+    6:   <%= image_tag "diagrama.png" %>
+    7: </div>
+  
+app/views/pagina2/index.html.erb:6
+Started GET "/pagina1/index" for ::1 at 2023-04-26 14:29:20 -0400
+Processing by Pagina1Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina1/index.html.erb within layouts/application
+  Rendered pagina1/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 3.7ms | Allocations: 2471)
+Completed 200 OK in 5ms (Views: 4.4ms | Allocations: 2754)
+
+
+Started POST "/pagina1/siguiente" for ::1 at 2023-04-26 14:29:21 -0400
+Processing by Pagina1Controller#siguiente as TURBO_STREAM
+  Parameters: {"username"=>"ddd", "password"=>"[FILTERED]"}
+Redirected to http://localhost:3000/pagina2/index
+Completed 302 Found in 2ms (Allocations: 360)
+
+
+Started GET "/pagina2/index" for ::1 at 2023-04-26 14:29:21 -0400
+Processing by Pagina2Controller#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering pagina2/index.html.erb within layouts/application
+  Rendered pagina2/index.html.erb within layouts/application (Duration: 21.8ms | Allocations: 21394)
+  Rendered layout layouts/application.html.erb (Duration: 23.4ms | Allocations: 23687)
+Completed 200 OK in 24ms (Views: 23.6ms | Allocations: 23949)
+
+
+Started GET "/pagina1/index" for ::1 at 2023-04-26 14:29:33 -0400
+Processing by Pagina1Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina1/index.html.erb within layouts/application
+  Rendered pagina1/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 6.6ms | Allocations: 2367)
+Completed 200 OK in 8ms (Views: 7.4ms | Allocations: 2625)
+
+
+Started POST "/pagina1/siguiente" for ::1 at 2023-04-26 14:30:08 -0400
+Processing by Pagina1Controller#siguiente as TURBO_STREAM
+  Parameters: {"username"=>"ppp", "password"=>"[FILTERED]"}
+Redirected to http://localhost:3000/pagina2/index
+Completed 302 Found in 3ms (Allocations: 341)
+
+
+Started GET "/pagina2/index" for ::1 at 2023-04-26 14:30:08 -0400
+Processing by Pagina2Controller#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering pagina2/index.html.erb within layouts/application
+  Rendered pagina2/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 647)
+  Rendered layout layouts/application.html.erb (Duration: 2.5ms | Allocations: 2894)
+Completed 200 OK in 3ms (Views: 2.7ms | Allocations: 3155)
+
+
+Started GET "/pagina3/index" for ::1 at 2023-04-26 14:30:14 -0400
+Processing by Pagina3Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina3/index.html.erb within layouts/application
+  Rendered pagina3/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 232)
+  Rendered layout layouts/application.html.erb (Duration: 3.2ms | Allocations: 2860)
+Completed 200 OK in 5ms (Views: 4.0ms | Allocations: 3633)
+
+
+Started GET "/pagina1/index" for ::1 at 2023-04-26 14:30:18 -0400
+Processing by Pagina1Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina1/index.html.erb within layouts/application
+  Rendered pagina1/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 5.6ms | Allocations: 2358)
+Completed 200 OK in 8ms (Views: 6.4ms | Allocations: 2634)
+
+
+Started GET "/pagina1/index" for ::1 at 2023-04-26 14:41:41 -0400
+Processing by Pagina1Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina1/index.html.erb within layouts/application
+  Rendered pagina1/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 468)
+  Rendered layout layouts/application.html.erb (Duration: 55.8ms | Allocations: 36230)
+Completed 200 OK in 61ms (Views: 57.7ms | ActiveRecord: 0.0ms | Allocations: 39673)
+
+
+Started POST "/pagina1/siguiente" for ::1 at 2023-04-26 14:41:48 -0400
+Processing by Pagina1Controller#siguiente as TURBO_STREAM
+  Parameters: {"username"=>"poko", "password"=>"[FILTERED]"}
+Redirected to http://localhost:3000/pagina2/index
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 571)
+
+
+Started GET "/pagina2/index" for ::1 at 2023-04-26 14:41:48 -0400
+Processing by Pagina2Controller#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering pagina2/index.html.erb within layouts/application
+  Rendered pagina2/index.html.erb within layouts/application (Duration: 1.4ms | Allocations: 1062)
+  Rendered layout layouts/application.html.erb (Duration: 3.2ms | Allocations: 3456)
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms | Allocations: 4293)
+
+
+Started GET "/pagina3/index" for ::1 at 2023-04-26 14:42:43 -0400
+Processing by Pagina3Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina3/index.html.erb within layouts/application
+  Rendered pagina3/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 230)
+  Rendered layout layouts/application.html.erb (Duration: 3.6ms | Allocations: 2869)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms | Allocations: 3663)
+
+
+Started GET "/pagina1/index" for ::1 at 2023-04-26 14:42:45 -0400
+Processing by Pagina1Controller#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pagina1/index.html.erb within layouts/application
+  Rendered pagina1/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 3.6ms | Allocations: 2362)
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.0ms | Allocations: 2648)
+
+
